@@ -7,7 +7,7 @@
         "is_top_level": true,
         "variables": {}
     },
-    "yandex-appmetrica-plugin-cordova": {
+    "yandex-appmetrica-plugin-cordova-android-studio": {
         "source": {
             "type": "local",
             "path": "../.."
