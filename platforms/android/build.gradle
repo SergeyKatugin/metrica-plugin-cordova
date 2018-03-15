@@ -2,7 +2,7 @@ repositories{
   jcenter()
   mavenCentral()
   flatDir {
-      dirs 'app/thirdparty-libs'
+      dirs 'thirdparty-libs'
    }
 }
 
