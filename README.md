@@ -1,5 +1,7 @@
 # AppMetrica Cordova Plugin
 
+This fork might fix error `no such file of directive AndroidManifest.xml`.
+
 ## Documentation
 Common documentation available on [AppMetrica official site][DOCUMENTATION].
 Documentation for this plugin will be published soon. 
