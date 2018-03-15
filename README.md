@@ -11,7 +11,7 @@ Sample project to use is available at [sample/][GitHubSAMPLE].
 
 ## Installation
 ```bash
-cordova plugin add yandex-appmetrica-plugin-cordova
+cordova plugin add https://github.com/SergeyKatugin/metrica-plugin-cordova-android-stuido.git
 ```
 
 It is also possible to install via repo url directly *(not recomended)*:
