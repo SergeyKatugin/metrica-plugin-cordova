@@ -1,9 +1,9 @@
 {
-  "name": "yandex-appmetrica-plugin-cordova",
+  "name": "yandex-appmetrica-plugin-cordova-android-studio",
   "version": "0.2.0",
   "description": "Cordova/PhoneGap plugin for AppMetrica analytics tool",
   "cordova": {
-    "id": "yandex-appmetrica-plugin-cordova",
+    "id": "yandex-appmetrica-plugin-cordova-android-studio",
     "platforms": [
       "android",
       "ios"
