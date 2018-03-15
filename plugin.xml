@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="yandex-appmetrica-plugin-cordova"
+        id="yandex-appmetrica-plugin-cordova-android-studio"
         version="0.2.0">
     <name>AppMetrica</name>
     <description>Cordova/PhoneGap plugin for AppMetrica analytics tool</description>
